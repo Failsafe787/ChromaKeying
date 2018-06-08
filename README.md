@@ -25,11 +25,9 @@ Made with Eclipse Oxygen.3 and Java 8
 - [x] Chroma Keying (Primatte) with custom settings
 
 ### Before starting
-Due to license issues I cannot upload all the files required for running the Resolver. To make this project working you need:
+Due to license issues I cannot upload all the files required for running the toolset. To make this project working you need:
 * Apogeo jbook Input class, available at http://www.apogeonline.com/2011/libri/9788850330690/allegati/pubblic/3069_classeJbookutilinput.zip
 You need to insert Input.java class inside src/jbook/util folder
 
 ## Samples
-Some image samples are already included in this release and ready to use after the pre-configuration. All the images are taken from around the
-web and unfortunately I don't remember sources and authors. If you're the creator of one or more pictures, please contact me in order to give proper
-credit for your work. All the images provided are under copyright of their respective authors.
+Some image samples are already included in this release and ready to use after the pre-configuration. All the images are taken from around the web and unfortunately I don't remember sources and authors. If you're the creator of one or more pictures, please contact me in order to give proper credit for your work. All the images provided are under copyright of their respective authors.
