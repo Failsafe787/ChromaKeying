@@ -1,4 +1,4 @@
-# AplhaBlending ChromaKeying
+# Aplha Blending & Chroma Keying (Vlahos and Primatte)
 A Java implementation of three filters used for image processing
 
 * Alpha Blending
