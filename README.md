@@ -5,9 +5,12 @@ A Java implementation of three filters used for image processing
 * Chroma Keying (Vlahos)
 * Chroma Keying (Primatte)
 
+![Preview](https://github.com/subwave07/ChromaKeying/blob/master/preview.jpg)
+
 ## About this project
 This is a university project I've developed for the exam of Multimedia Systems, held by
-professor Giorgio Leonardi of the University of the Eastern Piedmont (Italy)
+professor Giorgio Leonardi of the University of the Eastern Piedmont (Italy). More informations
+are available reading the documentation files inside the "docs" directory.
 
 ## State
 
